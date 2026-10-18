@@ -1,0 +1,1493 @@
+{
+ "note": "各来源评语为事实性转录, 无统一标准; 见 SKILL.md 中的取舍说明",
+ "scores": {
+  "大吉": 2,
+  "吉": 1,
+  "吉多于凶": 0.5,
+  "半吉": 0.5,
+  "吉带凶": 0.5,
+  "半凶": -0.5,
+  "凶多于吉": -0.5,
+  "凶带吉": -0.5,
+  "凶": -1,
+  "大凶": -2,
+  "吉凶各半": 0
+ },
+ "female": {
+  "avoid": [
+   21,
+   23,
+   33,
+   39
+  ],
+  "caution": [
+   7,
+   17,
+   29
+  ],
+  "fit": [
+   35
+  ]
+ },
+ "table": [
+  {
+   "n": 1,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "C": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 2,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "C": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 3,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "C": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 4,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "C": [
+     "大凶"
+    ]
+   },
+   "mean": -1.5,
+   "min": -2,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 5,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "C": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 6,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "C": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 7,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "半吉",
+     "吉"
+    ],
+    "C": [
+     "吉"
+    ]
+   },
+   "mean": 0.83,
+   "min": 0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": "caution"
+  },
+  {
+   "n": 8,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "半吉",
+     "吉"
+    ],
+    "C": [
+     "吉"
+    ]
+   },
+   "mean": 0.83,
+   "min": 0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 9,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "凶",
+     "半吉"
+    ],
+    "C": [
+     "凶"
+    ]
+   },
+   "mean": -0.5,
+   "min": -1,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 10,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "C": [
+     "半凶",
+     "半吉"
+    ]
+   },
+   "mean": -0.33,
+   "min": -1,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 11,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 12,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 13,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 14,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 15,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 16,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 17,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "半吉",
+     "吉"
+    ]
+   },
+   "mean": 0.75,
+   "min": 0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": "caution"
+  },
+  {
+   "n": 18,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "半吉"
+    ],
+    "B": [
+     "吉"
+    ]
+   },
+   "mean": 0.75,
+   "min": 0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 19,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "半凶",
+     "凶"
+    ],
+    "B": [
+     "大凶"
+    ]
+   },
+   "mean": -1.17,
+   "min": -2,
+   "max": -0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 20,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "B": [
+     "大凶"
+    ]
+   },
+   "mean": -1.5,
+   "min": -2,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 21,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "B": [
+     "大吉"
+    ]
+   },
+   "mean": 1.5,
+   "min": 1,
+   "max": 2,
+   "solid_ji": true,
+   "top_ji": true,
+   "disputed": false,
+   "female": "avoid"
+  },
+  {
+   "n": 22,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "B": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 23,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "B": [
+     "大吉"
+    ]
+   },
+   "mean": 1.5,
+   "min": 1,
+   "max": 2,
+   "solid_ji": true,
+   "top_ji": true,
+   "disputed": false,
+   "female": "avoid"
+  },
+  {
+   "n": 24,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "B": [
+     "大吉"
+    ]
+   },
+   "mean": 1.5,
+   "min": 1,
+   "max": 2,
+   "solid_ji": true,
+   "top_ji": true,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 25,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "吉",
+     "半吉"
+    ],
+    "B": [
+     "吉"
+    ]
+   },
+   "mean": 0.83,
+   "min": 0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 26,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "B": [
+     "凶多于吉"
+    ]
+   },
+   "mean": -0.75,
+   "min": -1,
+   "max": -0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 27,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "B": [
+     "吉多于凶"
+    ]
+   },
+   "mean": -0.25,
+   "min": -1,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 28,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "B": [
+     "大凶"
+    ]
+   },
+   "mean": -1.5,
+   "min": -2,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 29,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "半吉"
+    ],
+    "B": [
+     "大吉"
+    ]
+   },
+   "mean": 1.25,
+   "min": 0.5,
+   "max": 2,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": "caution"
+  },
+  {
+   "n": 30,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "半凶",
+     "半吉"
+    ],
+    "B": [
+     "吉多于凶"
+    ]
+   },
+   "mean": 0.17,
+   "min": -0.5,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 31,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "B": [
+     "大吉"
+    ]
+   },
+   "mean": 1.5,
+   "min": 1,
+   "max": 2,
+   "solid_ji": true,
+   "top_ji": true,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 32,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "B": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 33,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "B": [
+     "大吉"
+    ]
+   },
+   "mean": 1.5,
+   "min": 1,
+   "max": 2,
+   "solid_ji": true,
+   "top_ji": true,
+   "disputed": false,
+   "female": "avoid"
+  },
+  {
+   "n": 34,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "B": [
+     "大凶"
+    ]
+   },
+   "mean": -1.5,
+   "min": -2,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 35,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "B": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": "fit"
+  },
+  {
+   "n": 36,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "凶",
+     "半吉"
+    ],
+    "B": [
+     "凶"
+    ]
+   },
+   "mean": -0.5,
+   "min": -1,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 37,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "B": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 38,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "半吉"
+    ],
+    "B": [
+     "吉"
+    ]
+   },
+   "mean": 0.75,
+   "min": 0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 39,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "吉",
+     "半吉"
+    ],
+    "B": [
+     "大吉"
+    ]
+   },
+   "mean": 1.17,
+   "min": 0.5,
+   "max": 2,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": "avoid"
+  },
+  {
+   "n": 40,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "半凶",
+     "凶"
+    ],
+    "B": [
+     "吉多于凶"
+    ]
+   },
+   "mean": -0.33,
+   "min": -1,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 41,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "B": [
+     "大吉"
+    ]
+   },
+   "mean": 1.5,
+   "min": 1,
+   "max": 2,
+   "solid_ji": true,
+   "top_ji": true,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 42,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "B": [
+     "吉多于凶"
+    ]
+   },
+   "mean": -0.25,
+   "min": -1,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 43,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "B": [
+     "凶多于吉"
+    ]
+   },
+   "mean": -0.75,
+   "min": -1,
+   "max": -0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 44,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "B": [
+     "大凶"
+    ]
+   },
+   "mean": -1.5,
+   "min": -2,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 45,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "吉",
+     "半吉"
+    ],
+    "B": [
+     "吉"
+    ]
+   },
+   "mean": 0.83,
+   "min": 0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 46,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "B": [
+     "大凶"
+    ]
+   },
+   "mean": -1.5,
+   "min": -2,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 47,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "B": [
+     "大吉"
+    ]
+   },
+   "mean": 1.5,
+   "min": 1,
+   "max": 2,
+   "solid_ji": true,
+   "top_ji": true,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 48,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "B": [
+     "大吉"
+    ]
+   },
+   "mean": 1.5,
+   "min": 1,
+   "max": 2,
+   "solid_ji": true,
+   "top_ji": true,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 49,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "凶",
+     "半吉"
+    ],
+    "B": [
+     "吉多于凶"
+    ]
+   },
+   "mean": 0.0,
+   "min": -1,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 50,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "凶",
+     "半吉"
+    ]
+   },
+   "mean": -0.25,
+   "min": -1,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 51,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "凶",
+     "半吉"
+    ]
+   },
+   "mean": -0.25,
+   "min": -1,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 52,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 53,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 54,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 55,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "凶",
+     "半吉"
+    ]
+   },
+   "mean": -0.25,
+   "min": -1,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 56,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 57,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "半吉",
+     "吉"
+    ]
+   },
+   "mean": 0.75,
+   "min": 0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 58,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "半吉"
+    ]
+   },
+   "mean": 0.5,
+   "min": 0.5,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 59,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 60,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 61,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "吉",
+     "半吉"
+    ]
+   },
+   "mean": 0.75,
+   "min": 0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 62,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 63,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 64,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 65,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 66,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 67,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 68,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "吉"
+    ]
+   },
+   "mean": 1.0,
+   "min": 1,
+   "max": 1,
+   "solid_ji": true,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 69,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 70,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 71,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "半凶",
+     "吉"
+    ]
+   },
+   "mean": 0.25,
+   "min": -0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 72,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "半凶",
+     "吉"
+    ]
+   },
+   "mean": 0.25,
+   "min": -0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 73,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "半吉",
+     "吉"
+    ]
+   },
+   "mean": 0.75,
+   "min": 0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 74,
+   "wuxing": "火",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 75,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "半凶",
+     "吉"
+    ]
+   },
+   "mean": 0.25,
+   "min": -0.5,
+   "max": 1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 76,
+   "wuxing": "土",
+   "labels": {
+    "A": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 77,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "半凶",
+     "半吉"
+    ]
+   },
+   "mean": 0.0,
+   "min": -0.5,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 78,
+   "wuxing": "金",
+   "labels": {
+    "A": [
+     "半吉",
+     "凶"
+    ],
+    "C": [
+     "半凶",
+     "半吉"
+    ]
+   },
+   "mean": -0.12,
+   "min": -1,
+   "max": 0.5,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": true,
+   "female": null
+  },
+  {
+   "n": 79,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "C": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 80,
+   "wuxing": "水",
+   "labels": {
+    "A": [
+     "凶"
+    ],
+    "C": [
+     "凶"
+    ]
+   },
+   "mean": -1.0,
+   "min": -1,
+   "max": -1,
+   "solid_ji": false,
+   "top_ji": false,
+   "disputed": false,
+   "female": null
+  },
+  {
+   "n": 81,
+   "wuxing": "木",
+   "labels": {
+    "A": [
+     "吉"
+    ],
+    "C": [
+     "大吉"
+    ]
+   },
+   "mean": 1.5,
+   "min": 1,
+   "max": 2,
+   "solid_ji": true,
+   "top_ji": true,
+   "disputed": false,
+   "female": null
+  }
+ ]
+}
